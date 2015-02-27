@@ -1,26 +1,13 @@
 AngularJS Omni Bar
 ================
-A native AngularJS bar you can use to display progress, completion, percentage, etc.
+A native AngularJS bar you can use to display progress, completion, percentage, etc (cleaned version)
+Note: this is a fork of http://isteven.github.io/angular-omni-bar
 
-
-### Demo & How To 
-Go to http://isteven.github.io/angular-omni-bar
+### Demo & How
+Go to http://isteven.github.io/angular-omni-bar (it is same as original)
 
 ### Current Version
-1.0.1
-
-### Change Log
-See <a href="https://github.com/isteven/angular-omni-bar/blob/master/CHANGELOG.md">CHANGELOG.md</a>
-
-### Bug Reporting
-- Search in the issue section first. Somebody might have reported the same bug and/or asked similar question. If there's none, then please create a new issue.
-- Try to reproduce the problem in JSFiddle or Plunker (or any other online JS collaboration tool), and include the URL in the issue you are creating.
-
-
-### Note
-- This directive is a practical solution, not a performance champion. It will not win any code efficiency competition.
-- As for the moment, developments are on going, so I am not accepting pull requests. I will choose &  add them manually instead.
-- If you like / use this directive in your awesome projects, star this repo. It's a huge motivation for me. Would also love to hear from you if you use it in an open source project. Thanks!
+1.0.1i
 
 ### Licence
 Released under the MIT license:
